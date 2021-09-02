@@ -1,0 +1,37 @@
+.boton-save{
+  margin-top: 10px;
+  float: right;
+}
+
+.derecha{
+    margin-left: 60%;
+}
+.modal-alianza{
+  background-color: lightblue;
+}
+
+.error-requerid{
+  color: red;
+  text-align: center;
+}
+
+.caja{
+  margin-top: 10%;
+}
+.buscar{
+  margin-top: 3%;
+}
+
+.boton{
+  padding-block: 12px;
+}
+.borde{
+  border: black 1px solid;
+}
+.color-nombre-tabla{
+  color: rgb(22, 187, 238);
+}
+.bordes-especiales{
+  border-radius: 60px;
+}
+
